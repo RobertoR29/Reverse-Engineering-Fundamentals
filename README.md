@@ -21,4 +21,4 @@ Conducted malware analysis by performing static and dynamic examination of a rea
 
 ---
 
-> **Note:** Full analysis and scripts are available in the repository.
+> **Note:** Full analysis is available in the repository.
